@@ -124,7 +124,7 @@
   "author": "The Chromium Authors",
   "license": "Apache-2.0",
   "dependencies": {
-    "cosmiconfig": "8.2.0",
+    "cosmiconfig": "8.3.6",
     "puppeteer-core": "20.9.0",
     "@puppeteer/browsers": "1.4.6"
   }
